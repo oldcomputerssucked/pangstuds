@@ -1,0 +1,6 @@
+TILE
+..\data\testtile.GRA
+GRAPHICS testtile.vga
+TILE 0 0
+TILE 16 0
+TILE 0 16 LRUD
